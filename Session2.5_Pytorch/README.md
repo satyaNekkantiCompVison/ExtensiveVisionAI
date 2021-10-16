@@ -14,6 +14,8 @@
     1. Random number (7) can be represented as 0 0 0 0 0 0 0 1 0 0
     2. Sum (13) can be represented as: 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
 
+<p align="center"> <img width="208" alt="assign-1" src="https://user-images.githubusercontent.com/90888045/137569317-37b91941-8d1b-43bf-b369-ca2fdc48c905.png">
+
 
 ```
 
@@ -134,6 +136,7 @@ Addition_Accuracy:99.27
 # Train,test accuracy vs epochs
 
 ``` 
-Need to add Image of plot
+<p align="center">![loss_vs_epoch](https://user-images.githubusercontent.com/90888045/137569350-affe09fb-a015-4fa6-8255-b0e5b50aca3c.png)
+
 
 ```
