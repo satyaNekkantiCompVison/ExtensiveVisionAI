@@ -6,10 +6,11 @@ Initial weights,
 
     w1 = 0.15	w2 = 0.2	w3 = 0.25	w4 = 0.3
     w5 = 0.4	w6 = 0.45	w7 = 0.5	w8 = 0.55
+# Learning rate graph
+![BP_graph](https://user-images.githubusercontent.com/90888045/137781125-52ec7a1d-af91-4d49-ae04-c09540d3852d.png)
 
-![Backpropagation Graph](https://github.com/satyaNekkantiCompVison/ExtensiveVisionAI/tree/main/S4_BackPropagation/BP_graph.png)
-
-![Screen Shot](https://github.com/satyaNekkantiCompVison/ExtensiveVisionAI/tree/main/S4_BackPropagation/Screenshot%20(114).png)
+# ScreenShot
+![Screenshot (114)](https://user-images.githubusercontent.com/90888045/137781193-56e23f76-d0fe-497c-8bbc-f899b30dcb99.png)
 
 Given two inputs with values 0.05 and 0.10 and two exprected outputs 0.01 and 0.99.
 
