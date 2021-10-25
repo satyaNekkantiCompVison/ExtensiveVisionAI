@@ -99,4 +99,8 @@ Test set: Average loss: 0.0187, Accuracy: 9941/10000 (99.41%)
 ## Accuracy vs Epochs plots
 
 
+![plots](https://user-images.githubusercontent.com/90888045/138742094-e7d1ed4c-d447-4746-9d80-bab7c4b463fe.png)
 
+## Collaborators
+Satya Nekkanti (https://github.com/satyaNekkantiCompVison)
+Pranabesh Dash (https://github.com/pranabeshdash/EVA7)
