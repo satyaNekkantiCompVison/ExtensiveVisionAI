@@ -58,6 +58,8 @@ The model has 19,712 trainable parameters
 
 ## Training Log
 
+<img width="529" alt="Training_logs" src="https://user-images.githubusercontent.com/90888045/137783463-ee7b955f-669b-42cf-815d-4710440626cd.PNG">
+
 
 ## Final Review
 Total we used 19712 parameters, with model size 1.35 MB and achieved 99.44% at epoch 8
