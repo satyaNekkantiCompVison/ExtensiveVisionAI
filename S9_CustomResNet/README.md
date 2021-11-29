@@ -40,7 +40,7 @@
 
 # Model Evaluation
 
--  We can find S9_assignment google colab notebook here [Notebook] ()
+-  We can find S9_assignment google colab notebook here [Notebook](https://github.com/satyaNekkantiCompVison/ExtensiveVisionAI/blob/main/S9_CustomResNet/S9_CustomResnet.ipynb)
 1. Augmentation DataTransforms
 - As the requirement we created augumented train dataset using the follwing augumentations parameters
 
@@ -266,12 +266,27 @@ Train Loss=0.04978334903717041 Batch_id=390 LR=-0.00007 Train Accuracy= 97.64: 1
 
 2. Plotting Graphs
 
+## Loss Grpahs for Train and Test
+
+![loss_graphs](https://user-images.githubusercontent.com/90888045/143826840-6c055698-c928-4a2b-96f9-322fca0b4bb7.png)
+
+
+## Accuracy Graph for Train and Test
+
+![Accuracy_graph](https://user-images.githubusercontent.com/90888045/143826871-5f2081dd-1af3-414d-b723-af38d95383b4.png)
+
 
 3. Plotting Mis-Classified Images
+
+![misclassified_images](https://user-images.githubusercontent.com/90888045/143826889-f380a29f-dceb-4ec3-b1ec-0bde2cd20857.png)
 
 
 4. Plotting Grad-cam for Mis-classified images
 
+![gradcam_1](https://user-images.githubusercontent.com/90888045/143826909-682ed6c0-2944-4f85-8a35-183ee6f9f103.png)
+
+
+![gradcam_2](https://user-images.githubusercontent.com/90888045/143826919-e791d76f-0476-4e3f-af9d-dd5fec5462dc.png)
 
 
 # Team Members
