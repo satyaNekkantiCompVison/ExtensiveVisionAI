@@ -1,0 +1,4 @@
+classes=4
+train=data/customData/train.txt
+valid=data/customData/test.txt
+names=data/customData/custom.names
