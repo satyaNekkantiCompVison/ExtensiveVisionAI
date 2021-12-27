@@ -7,6 +7,9 @@ For example, it can crop a region of interest, scale and correct the orientation
 It can be a useful mechanism because CNNs are not invariant to rotation and scale and more general affine transformations
 ``
 
+![stn-arch](https://user-images.githubusercontent.com/90888045/147482155-373c914d-1133-46c7-b735-e4524d9258bd.png)
+
+
 ## Model Architecture
 
 Spatial transformer networks boils down to three main components :
